@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "81455f9123eeb153",
+        "id": "9d3b55068f8ac7bf",
         "type": "tabs",
         "children": [
           {
-            "id": "89fc64e7ba75253a",
+            "id": "479b9f4879703e54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-pico/Parte 3/1-fixme2.py.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1ec2e10c045457d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-pico/Parte 3/2-Glitch Cat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2d725e38a5c52df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-pico/Parte 3/3-PW Crack 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "600d0b48e9078a0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-pico/Parte 3/4-PW Crack 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b97658002e8b26ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-pico/Parte 3/5-PW Crack 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59aae7a4917082d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-pico/Parte 3/6-runme.py.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3dbe702e5c4711c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-pico/Parte 3/7-Based.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "021a7890c329ea21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-pico/Parte 3/8-plumbing.md",
+                "file": "retos-pico/Web/Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-pico/Parte 3/8-plumbing.md",
+                "file": "retos-pico/Web/Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-pico/Parte 3/8-plumbing.md",
+                "file": "retos-pico/Web/Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-pico/Parte 3/8-plumbing.md"
+                "file": "retos-pico/Web/Client-side-again.md"
               }
             }
           },
@@ -243,32 +158,34 @@
   },
   "active": "0f6b864a85aa9c15",
   "lastOpenFiles": [
+    "retos-pico/Web/picobrowser.md",
+    "retos-pico/Web/where are the robots.md",
+    "retos-pico/Web/Client-side-again.md",
+    "retos-pico/Web/dont-use-client-side.md",
+    "retos-pico/Web/Insp3ct0r.md",
+    "retos-pico/Web/logon.md",
+    "retos-bandit/Bandit Level 3 → Level 4.md",
+    "retos-pico/Parte 1/9-Magikarp Ground Mission.md",
+    "retos-pico/Parte 1/8-Warmed Up.md",
+    "retos-pico/Parte 1/6-Lets Warm Up.md",
+    "retos-pico/Parte 1/4-Static ain't always noise.md",
+    "retos-pico/Parte 1/1-Obedient Cat.md",
+    "retos-pico/Parte 1/2-Wave a flag.md",
+    "retos-pico/General Skllls/PW Crack 4.md",
+    "retos-pico/General Skllls/HashingJobApp.md",
+    "retos-pico/General Skllls/ASCII Numbers.md",
+    "README.md",
+    "retos-pico/General Skllls/First Find.md",
+    "retos-pico/General Skllls",
+    "retos-pico/General Skllls/Serpentine.md",
+    "retos-pico/General Skllls/Python Wrangling.md",
+    "retos-pico/Web",
+    "retos-bandit/Big Zip.md",
+    "retos-bandit/Bandit Level 12 → Level 13.md",
+    "retos-pico/General Skllls/PW Crack 5.md",
+    "retos-pico/Parte 3/4-PW Crack 2.md",
     "retos-pico/Parte 3/7-Based.md",
     "retos-pico/Parte 3/8-plumbing.md",
-    "retos-pico/Parte 3/6-runme.py.md",
-    "retos-pico/Parte 3/5-PW Crack 3.md",
-    "retos-pico/Parte 3/4-PW Crack 2.md",
-    "retos-pico/Parte 3/3-PW Crack 1.md",
-    "retos-pico/Parte 3/2-Glitch Cat.md",
-    "retos-pico/Parte 3/1-fixme2.py.md",
-    "retos-pico/Parte 2/8-what's a net cat.md",
-    "retos-pico/Parte 2/7-strings it.md",
-    "retos-pico/Parte 2/6-fixme1.py.md",
-    "retos-pico/Parte 2/5-First Grep.md",
-    "retos-bandit/Bandit Level 14 → Level 15.md",
-    "retos-bandit/Bandit Level 13 → Level 14.md",
-    "retos-bandit/Bandit Level 12 → Level 13.md",
-    "retos-bandit/Bandit Level 11 → Level 12.md",
-    "retos-bandit/Bandit Level 10 → Level 11.md",
-    "retos-bandit/Bandit Level 9 → Level 10.md",
-    "retos-bandit/Bandit Level 8 → Level 9.md",
-    "retos-bandit/Bandit Level 7 → Level 8.md",
-    "retos-bandit/Bandit Level 6 → Level 7.md",
-    "retos-bandit/Bandit Level 5 → Level 6.md",
-    "retos-bandit/Bandit Level 4 → Level 5.md",
-    "retos-bandit/Bandit Level 3 → Level 4.md",
-    "retos-bandit/Bandit Level 2 → Level 3.md",
-    "retos-pico/Parte 1/5-Tab, Tab, Attack.md",
     "kali.pdf",
     "retos-pico/Parte 3",
     "retos-pico/Parte 2",

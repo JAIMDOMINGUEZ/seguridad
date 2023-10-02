@@ -19,7 +19,6 @@ ValueError: invalid literal for int() with base 2: '4'
 101010
 >>> 
 KeyboardInterrupt
->>> 
 ```
 
 # Notas adicionales
