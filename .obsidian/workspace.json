@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-pico/Web/web2/JaWT Scratchpad.md",
+                "file": "retos-pico/Web/web3/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-pico/Web/web2/JaWT Scratchpad.md",
+                "file": "retos-pico/Web/web3/Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-pico/Web/web2/JaWT Scratchpad.md",
+                "file": "retos-pico/Web/web3/Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-pico/Web/web2/JaWT Scratchpad.md"
+                "file": "retos-pico/Web/web3/Scavenger Hunt.md"
               }
             }
           },
@@ -254,6 +254,7 @@
   },
   "active": "2923f4872620c27d",
   "lastOpenFiles": [
+    "retos-pico/Web/web2/JaWT Scratchpad.md",
     "Pasted image 20231011230107.png",
     "retos-pico/Web/web3/Scavenger Hunt.md",
     "retos-pico/Web/web3/GET aHEAD.md",
@@ -263,7 +264,6 @@
     "retos-pico/Parte 2/1-2Warm.md",
     "retos-pico/Parte 2/2-Bases.md",
     "retos-pico/Parte 2/3-Codebook.md",
-    "retos-pico/Web/web2/JaWT Scratchpad.md",
     "retos-pico/Web/web2/Irish-Name-Repo 3.md",
     "retos-pico/Web/web3",
     "retos-pico/Web/web1/where are the robots.md",

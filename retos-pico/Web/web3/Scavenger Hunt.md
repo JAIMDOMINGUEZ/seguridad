@@ -28,6 +28,11 @@ User-agent: *
 Disallow: /index.html
 # Part 3: t_0f_pl4c
 # I think this is an apache server... can you Access the next flag?
+--.htaccess
+# Part 4: 3s_2_lO0k
+# I love making websites on my Mac, I can Store a lot of information there.
+--.DS_Store
+Congrats! You completed the scavenger hunt. Part 5: _a69684fd}
 ```
 
 # Notas adicionales
