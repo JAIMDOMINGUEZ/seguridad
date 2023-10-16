@@ -114,9 +114,79 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df69ad521592e0e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
+            "id": "fd3f21ab175675dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-pico/Forense/Glory of the Garden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d85ad98872d8829b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-pico/Forense/extensions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4931a9f7155c0331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-pico/Forense/So Meta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30b16de5ad51f44f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-pico/Forense/What Lies Within.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a0763b8609663af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shark on wire 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -182,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-pico/Web/web3/Scavenger Hunt.md",
+                "file": "shark on wire 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-pico/Web/web3/Scavenger Hunt.md",
+                "file": "shark on wire 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-pico/Web/web3/Scavenger Hunt.md"
+                "file": "shark on wire 1.md"
               }
             }
           },
@@ -252,11 +322,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2923f4872620c27d",
+  "active": "4a0763b8609663af",
   "lastOpenFiles": [
+    "Pasted image 20231015225053.png",
+    "retos-pico/Forense/What Lies Within.md",
+    "shark on wire 1.md",
+    "retos-pico/Forense/So Meta.md",
+    "Pasted image 20231015223750.png",
+    "retos-pico/Web/web1/where are the robots.md",
+    "retos-bandit/Bandit Level 2 → Level 3.md",
+    "retos-pico/Forense/Glory of the Garden.md",
+    "retos-pico/Forense/extensions.md",
+    "Pasted image 20231013211715.png",
+    "README.md",
+    "retos-pico/Web/web3/Scavenger Hunt.md",
+    "retos-pico/Forense",
     "retos-pico/Web/web2/JaWT Scratchpad.md",
     "Pasted image 20231011230107.png",
-    "retos-pico/Web/web3/Scavenger Hunt.md",
     "retos-pico/Web/web3/GET aHEAD.md",
     "retos-pico/General Skllls/PW Crack 5.md",
     "retos-pico/Web/web3/Cookies.md",
@@ -266,7 +348,6 @@
     "retos-pico/Parte 2/3-Codebook.md",
     "retos-pico/Web/web2/Irish-Name-Repo 3.md",
     "retos-pico/Web/web3",
-    "retos-pico/Web/web1/where are the robots.md",
     "retos-pico/Web/web2/Irish-Name-Repo 1.md",
     "retos-pico/Web/web2/Irish-Name-Repo 2.md",
     "retos-pico/Web/web1/logon.md",
@@ -276,19 +357,11 @@
     "retos-pico/Web/web1/Client-side-again.md",
     "retos-pico/Web/web1/dont-use-client-side.md",
     "retos-pico/Web/web1/Insp3ct0r.md",
-    "retos-bandit/Bandit Level 3 → Level 4.md",
-    "retos-pico/Parte 1/9-Magikarp Ground Mission.md",
-    "retos-pico/Parte 1/8-Warmed Up.md",
-    "retos-pico/Parte 1/6-Lets Warm Up.md",
-    "retos-pico/Parte 1/4-Static ain't always noise.md",
-    "retos-pico/Parte 1/1-Obedient Cat.md",
-    "retos-pico/General Skllls/PW Crack 4.md",
     "retos-pico/General Skllls",
     "retos-pico/Web",
     "kali.pdf",
     "retos-pico/Parte 3",
     "retos-pico/Parte 2",
-    "retos-pico/Parte 1",
-    "Notas-clase"
+    "retos-pico/Parte 1"
   ]
 }
