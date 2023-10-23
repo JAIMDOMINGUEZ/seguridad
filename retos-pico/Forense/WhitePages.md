@@ -22,4 +22,3 @@ I stopped using YellowPages and moved onto WhitePages... but [the page they gav
 https://gchq.github.io/CyberChef/
 
 
-![[Recording 20231018223228.webm]]
