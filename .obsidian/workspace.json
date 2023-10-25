@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4e4218360003df0a",
+        "id": "d4ab09fa704539ed",
         "type": "tabs",
         "children": [
           {
-            "id": "e93f29f08b47210e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e94f77ce482fe5b5",
+            "id": "8fa575f8cc41f267",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-pico/Web/web3/Cookies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28f2ecd5f00b2e7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Includes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29acfa34fd0b16fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "information.md",
+                "file": "retos-pico/Web/SQL Direct.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "information.md",
+                "file": "retos-pico/Web/SQL Direct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "information.md",
+                "file": "retos-pico/Web/SQL Direct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "information.md"
+                "file": "retos-pico/Web/SQL Direct.md"
               }
             }
           },
@@ -191,37 +158,45 @@
       "audio-recorder:Empezar/Parar de grabar": false
     }
   },
-  "active": "29acfa34fd0b16fd",
+  "active": "8fa575f8cc41f267",
   "lastOpenFiles": [
-    "Includes.md",
-    "information.md",
+    "retos-pico/Web/Search source.md",
+    "retos-pico/Web/SQL Direct.md",
+    "retos-pico/Web/Power Cookie.md",
+    "Pasted image 20231024153140.png",
+    "Pasted image 20231024153122.png",
+    "retos-pico/Web/Secrets.md",
+    "Pasted image 20231024152622.png",
+    "Pasted image 20231024152532.png",
+    "Pasted image 20231024152245.png",
+    "Pasted image 20231024151236.png",
+    "retos-pico/Web/Roboto Sans.md",
+    "Pasted image 20231024005113.png",
+    "Pasted image 20231024004648.png",
+    "retos-pico/Web/Forbidden Paths.md",
+    "Pasted image 20231024002347.png",
+    "retos-pico/Forense/St3g0.md",
+    "retos-pico/Web/Local Authority.md",
+    "retos-pico/Web/Includes.md",
+    "retos-pico/Web/Inspect HTML.md",
+    "Pasted image 20231024000431.png",
+    "retos-pico/Forense/Wireshark doo dooo do doo....md",
+    "retos-pico/Forense/information.md",
+    "retos-pico/Forense/Redaction gone wrong.md",
+    "retos-pico/Forense/Packets Primer.md",
+    "retos-pico/Forense/Lookey here.md",
+    "Plantillas/Plantilla.md",
     "retos-pico/Web/web3/Cookies.md",
-    "retos-pico/Forense/WebNet1.md",
-    "Pasted image 20231023004242.png",
-    "Pasted image 20231023004139.png",
-    "retos-pico/Forense/WebNet0.md",
-    "Pasted image 20231023003249.png",
-    "retos-pico/Forense/like1000.md",
-    "retos-pico/Forense/MacroHard WeakEdge.md",
-    "retos-pico/Forense/tunn3l v1s10n.md",
-    "retos-pico/Forense/So Meta.md",
-    "Pasted image 20231023001831.png",
-    "Pasted image 20231023001800.png",
-    "Pasted image 20231023000404.png",
     "retos-pico/Forense/Matryoshka doll.md",
-    "retos-pico/Forense/WhitePages.md",
-    "retos-pico/Forense/What Lies Within.md",
-    "retos-pico/Forense/extensions.md",
-    "retos-pico/Forense/Glory of the Garden.md",
-    "retos-pico/Forense/shark on wire 2.md",
-    "retos-pico/Forense/c0rrupt.md",
-    "Pasted image 20231022223740.png",
-    "retos-pico/Forense/shark on wire 1.md",
-    "retos-pico/Forense/m00nwalk.md",
-    "Pasted image 20231022132323.png",
-    "Pasted image 20231022011233.png",
-    "Recording 20231018223228.webm.md",
-    "Pasted image 20231011230107.png",
+    "Plantillas",
+    "retos-bandit/Bandit Level 33→ Level 34.md",
+    "retos-pico/Forense/Enhance!.md",
+    "retos-bandit/Bandit Level 3 → Level 4.md",
+    "retos-pico/Parte 2/2-Bases.md",
+    "retos-pico/General Skllls/Serpentine.md",
+    "retos-pico/General Skllls/PW Crack 5.md",
+    "retos-pico/General Skllls/HashingJobApp.md",
+    "retos-pico/General Skllls/First Find.md",
     "Recording 20231018223832.webm",
     "Recording 20231018223734.webm",
     "Recording 20231018224210.webm",
@@ -230,15 +205,7 @@
     "Recording 20231018223745.webm",
     "Recording 20231018223228.webm",
     "Recording 20231018223111.webm",
-    "README.md",
     "Sin título.canvas",
-    "kali.pdf",
-    "retos-pico/Parte 1/9-Magikarp Ground Mission.md",
-    "2023-10-18.md",
-    "retos-pico/Web/web1/where are the robots.md",
-    "retos-pico/Web/web3/GET aHEAD.md",
-    "retos-pico/Web/web2/Irish-Name-Repo 1.md",
-    "retos-pico/Web/web3/Scavenger Hunt.md",
-    "retos-pico/Forense/Sin título"
+    "kali.pdf"
   ]
 }
