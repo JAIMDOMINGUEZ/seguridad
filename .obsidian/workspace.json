@@ -8,27 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b48e7369c413e297",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "048b99ea4d0a21e2",
+            "id": "f63e6a239fab6da7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-pico/Crypto/waves over lambda.md",
+                "file": "retos-pico/Crypto/rsa-pop-quiz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea47417b9a76f6b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-pico/Crypto/miniRSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8458772640cc6bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-pico/Crypto/rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-pico/Crypto/waves over lambda.md",
+                "file": "retos-pico/Crypto/rsa-pop-quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-pico/Crypto/waves over lambda.md",
+                "file": "retos-pico/Crypto/rsa-pop-quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-pico/Crypto/waves over lambda.md"
+                "file": "retos-pico/Crypto/rsa-pop-quiz.md"
               }
             }
           },
@@ -168,10 +184,13 @@
       "audio-recorder:Empezar/Parar de grabar": false
     }
   },
-  "active": "048b99ea4d0a21e2",
+  "active": "0f6b864a85aa9c15",
   "lastOpenFiles": [
-    "img/Pasted image 20231025113839.png",
+    "retos-pico/Crypto/b00tl3gRSA2.md",
+    "retos-pico/Crypto/miniRSA.md",
+    "retos-pico/Crypto/rsa-pop-quiz.md",
     "retos-pico/Crypto/waves over lambda.md",
+    "img/Pasted image 20231025113839.png",
     "retos-pico/Crypto/The Numbers.md",
     "retos-pico/Crypto/la cifra de.md",
     "retos-pico/Crypto/Tapping.md",
@@ -194,7 +213,6 @@
     "retos-pico/Web/Search source.md",
     "retos-pico/Web/Power Cookie.md",
     "img/Pasted image 20231024153140.png",
-    "img/Pasted image 20231024153122.png",
     "retos-pico/Web/Secrets.md",
     "retos-pico/Forense/St3g0.md",
     "retos-pico/Web/Local Authority.md",
@@ -206,8 +224,6 @@
     "retos-pico/Forense/Packets Primer.md",
     "retos-pico/Forense/Lookey here.md",
     "Plantillas/Plantilla.md",
-    "retos-pico/Web/web3/Cookies.md",
-    "retos-pico/Forense/Matryoshka doll.md",
     "Plantillas",
     "Recording 20231018223832.webm",
     "Recording 20231018223734.webm",
