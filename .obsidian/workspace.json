@@ -4,47 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "e8ee2654fde8b919",
+        "id": "a57824c5cc1ce8dc",
         "type": "tabs",
         "children": [
           {
-            "id": "f63e6a239fab6da7",
+            "id": "038ba00e1144783a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "48bc4e8d6732bb08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-pico/Crypto/rsa-pop-quiz.md",
+                "file": "retos-pico/Crypto/Mind your Ps and Qs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea47417b9a76f6b5",
+            "id": "4ffe3836a2911a95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-pico/Crypto/miniRSA.md",
+                "file": "retos-pico/Crypto/HideToSee.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f8458772640cc6bd",
+            "id": "5b77a364a7919ccc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-pico/Crypto/rsa-pop-quiz.md",
+                "file": "retos-pico/Crypto/ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#basic-mod1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-pico/Crypto/rsa-pop-quiz.md",
+                "file": "retos-pico/Crypto/ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-pico/Crypto/rsa-pop-quiz.md",
+                "file": "retos-pico/Crypto/ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-pico/Crypto/rsa-pop-quiz.md"
+                "file": "retos-pico/Crypto/ReadMyCert.md"
               }
             }
           },
@@ -186,9 +194,17 @@
   },
   "active": "0f6b864a85aa9c15",
   "lastOpenFiles": [
-    "retos-pico/Crypto/b00tl3gRSA2.md",
-    "retos-pico/Crypto/miniRSA.md",
+    "retos-pico/Crypto/HideToSee.md",
+    "retos-pico/Crypto/ReadMyCert.md",
+    "img/Pasted image 20231105213803.png",
+    "retos-pico/Crypto/Mind your Ps and Qs.md",
+    "retos-pico/Crypto/13.md",
+    "retos-pico/Crypto/basic-mod1.md",
+    "retos-pico/Crypto/Pixelated.md",
+    "img/Pasted image 20231101103938.png",
     "retos-pico/Crypto/rsa-pop-quiz.md",
+    "retos-pico/Crypto/miniRSA.md",
+    "retos-pico/Crypto/b00tl3gRSA2.md",
     "retos-pico/Crypto/waves over lambda.md",
     "img/Pasted image 20231025113839.png",
     "retos-pico/Crypto/The Numbers.md",
@@ -200,30 +216,22 @@
     "img/Pasted image 20231025110545.png",
     "retos-pico/Crypto/Easy1.md",
     "img/Pasted image 20231025104041.png",
-    "retos-pico/Crypto/13.md",
     "img/Pasted image 20231025005853.png",
     "img/Pasted image 20231025005509.png",
     "img/Pasted image 20231025005444.png",
     "retos-pico/Web/Roboto Sans.md",
     "retos-pico/Web/SQL Direct.md",
     "retos-pico/Web/Forbidden Paths.md",
-    "img/Pasted image 20231013211715.png",
     "img",
     "retos-pico/Crypto",
     "retos-pico/Web/Search source.md",
     "retos-pico/Web/Power Cookie.md",
-    "img/Pasted image 20231024153140.png",
     "retos-pico/Web/Secrets.md",
     "retos-pico/Forense/St3g0.md",
     "retos-pico/Web/Local Authority.md",
     "retos-pico/Web/Includes.md",
     "retos-pico/Web/Inspect HTML.md",
     "retos-pico/Forense/Wireshark doo dooo do doo....md",
-    "retos-pico/Forense/information.md",
-    "retos-pico/Forense/Redaction gone wrong.md",
-    "retos-pico/Forense/Packets Primer.md",
-    "retos-pico/Forense/Lookey here.md",
-    "Plantillas/Plantilla.md",
     "Plantillas",
     "Recording 20231018223832.webm",
     "Recording 20231018223734.webm",
