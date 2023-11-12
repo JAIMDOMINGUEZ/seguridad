@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-pico/Reversing/vault-door-5.md",
+                "file": "Plantillas/Plantilla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83e46fecc6907303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-pico/Reversing/asm1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3c1ffb22e60b48d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-pico/Reversing/asm2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27f188d10914c0a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-pico/Reversing/asm3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#basic-mod1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-pico/Reversing/vault-door-5.md",
+                "file": "retos-pico/Reversing/asm3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-pico/Reversing/vault-door-5.md",
+                "file": "retos-pico/Reversing/asm3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-pico/Reversing/vault-door-5.md"
+                "file": "retos-pico/Reversing/asm3.md"
               }
             }
           },
@@ -161,10 +198,17 @@
   },
   "active": "0f6b864a85aa9c15",
   "lastOpenFiles": [
+    "img/Pasted image 20231112004136.png",
+    "retos-pico/Reversing/asm2.md",
+    "retos-pico/Reversing/asm3.md",
+    "retos-pico/Reversing/asm1.md",
+    "Sin título.canvas",
+    "Plantillas/Plantilla.md",
+    "README.md",
+    "retos-pico/Reversing/vault-door-5.md",
     "retos-pico/Reversing",
     "img/Pasted image 20231106113444.png",
     "retos-pico/Reversing/vault-door-training.md",
-    "retos-pico/Reversing/vault-door-5.md",
     "retos-pico/Reversing/vault-door-4.md",
     "retos-pico/Reversing/vault-door-3.md",
     "retos-pico/Reversing/vault-door-1.md",
@@ -192,21 +236,14 @@
     "img/Pasted image 20231025104041.png",
     "img/Pasted image 20231025005853.png",
     "img/Pasted image 20231025005509.png",
-    "retos-pico/Web/Roboto Sans.md",
-    "retos-pico/Web/SQL Direct.md",
-    "retos-pico/Web/Forbidden Paths.md",
     "img",
     "retos-pico/Crypto",
-    "retos-pico/Web/Search source.md",
-    "retos-pico/Web/Power Cookie.md",
     "Plantillas",
     "Recording 20231018223832.webm",
     "Recording 20231018223734.webm",
     "Recording 20231018224210.webm",
     "Recording 20231018224136.webm",
     "Recording 20231018224113.webm",
-    "Recording 20231018223745.webm",
-    "Recording 20231018223228.webm",
-    "Sin título.canvas"
+    "Recording 20231018223745.webm"
   ]
 }
