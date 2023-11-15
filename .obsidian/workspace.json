@@ -8,48 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82f96b31b23d1cb4",
+            "id": "de3deefd8de534dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plantillas/Plantilla.md",
+                "file": "retos-pico/Reversing/Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "83e46fecc6907303",
+            "id": "6254ccaf1460fc91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-pico/Reversing/asm1.md",
+                "file": "retos-pico/Reversing/Safe Opener 2 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e3c1ffb22e60b48d",
+            "id": "672fe518a48a7309",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-pico/Reversing/asm2.md",
+                "file": "retos-pico/Reversing/reverse_cipher.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "27f188d10914c0a7",
+            "id": "5e6db9942a027060",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-pico/Reversing/asm3.md",
+                "file": "retos-pico/Reversing/Need For Speed.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#GDB",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-pico/Reversing/asm3.md",
+                "file": "retos-pico/Reversing/Need For Speed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-pico/Reversing/asm3.md",
+                "file": "retos-pico/Reversing/Need For Speed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-pico/Reversing/asm3.md"
+                "file": "retos-pico/Reversing/Need For Speed.md"
               }
             }
           },
@@ -198,9 +198,17 @@
   },
   "active": "0f6b864a85aa9c15",
   "lastOpenFiles": [
-    "img/Pasted image 20231112004136.png",
+    "retos-pico/Reversing/reverse_cipher.md",
+    "retos-pico/Reversing/Need For Speed.md",
+    "img/Pasted image 20231114220149.png",
+    "retos-pico/Reversing/Safe Opener 2 1.md",
+    "retos-pico/Reversing/Safe Opener 2.md",
+    "retos-pico/Reversing/GDB Test Drive.md",
     "retos-pico/Reversing/asm2.md",
+    "img/Pasted image 20231113221006.png",
+    "img/Pasted image 20231113220843.png",
     "retos-pico/Reversing/asm3.md",
+    "img/Pasted image 20231112004136.png",
     "retos-pico/Reversing/asm1.md",
     "Sin título.canvas",
     "Plantillas/Plantilla.md",
@@ -226,16 +234,8 @@
     "retos-pico/Crypto/waves over lambda.md",
     "img/Pasted image 20231025113839.png",
     "retos-pico/Crypto/The Numbers.md",
-    "retos-pico/Crypto/la cifra de.md",
-    "retos-pico/Crypto/Tapping.md",
     "img/Pasted image 20231025112036.png",
     "img/Pasted image 20231025111635.png",
-    "retos-pico/Crypto/caesar.md",
-    "img/Pasted image 20231025110545.png",
-    "retos-pico/Crypto/Easy1.md",
-    "img/Pasted image 20231025104041.png",
-    "img/Pasted image 20231025005853.png",
-    "img/Pasted image 20231025005509.png",
     "img",
     "retos-pico/Crypto",
     "Plantillas",
