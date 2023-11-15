@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASCII FTW.md",
+                "file": "retos-pico/Reversing/ASCII FTW.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASCII FTW.md",
+                "file": "retos-pico/Reversing/ASCII FTW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASCII FTW.md",
+                "file": "retos-pico/Reversing/ASCII FTW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASCII FTW.md"
+                "file": "retos-pico/Reversing/ASCII FTW.md"
               }
             }
           },
@@ -159,8 +159,9 @@
       "audio-recorder:Empezar/Parar de grabar": false
     }
   },
-  "active": "90e0c2bc8a4eeaa8",
+  "active": "0f6b864a85aa9c15",
   "lastOpenFiles": [
+    "img/Pasted image 20231115085713.png",
     "img/Pasted image 20231115010305.png",
     "img/Pasted image 20231115010115.png",
     "img/Pasted image 20231115010040.png",
@@ -169,7 +170,7 @@
     "retos-pico/Reversing/GDB baby step 2.md",
     "img/Pasted image 20231115005106.png",
     "retos-pico/Reversing/Bit-O-Asm-4.md",
-    "ASCII FTW.md",
+    "retos-pico/Reversing/ASCII FTW.md",
     "retos-pico/Reversing/Bit-O-Asm-3.md",
     "retos-pico/Reversing/Bit-O-Asm-2.md",
     "retos-pico/Reversing/Bit-O-Asm-1.md",
@@ -191,7 +192,6 @@
     "retos-pico/Reversing/asm2.md",
     "img/Pasted image 20231113221006.png",
     "img/Pasted image 20231113220843.png",
-    "img/Pasted image 20231112004136.png",
     "Sin título.canvas",
     "Plantillas/Plantilla.md",
     "README.md",
