@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a57824c5cc1ce8dc",
+        "id": "07f464e510aa1d4e",
         "type": "tabs",
         "children": [
           {
-            "id": "de3deefd8de534dd",
+            "id": "90e0c2bc8a4eeaa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-pico/Reversing/Safe Opener 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6254ccaf1460fc91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-pico/Reversing/Safe Opener 2 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "672fe518a48a7309",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-pico/Reversing/reverse_cipher.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e6db9942a027060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-pico/Reversing/Need For Speed.md",
+                "file": "ASCII FTW.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#GDB",
+                "query": "tag:#Bit-O-Asm-3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-pico/Reversing/Need For Speed.md",
+                "file": "ASCII FTW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-pico/Reversing/Need For Speed.md",
+                "file": "ASCII FTW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-pico/Reversing/Need For Speed.md"
+                "file": "ASCII FTW.md"
               }
             }
           },
@@ -196,46 +159,46 @@
       "audio-recorder:Empezar/Parar de grabar": false
     }
   },
-  "active": "0f6b864a85aa9c15",
+  "active": "90e0c2bc8a4eeaa8",
   "lastOpenFiles": [
+    "img/Pasted image 20231115010305.png",
+    "img/Pasted image 20231115010115.png",
+    "img/Pasted image 20231115010040.png",
+    "img/Pasted image 20231115005836.png",
+    "retos-pico/Reversing/GDB baby step 1.md",
+    "retos-pico/Reversing/GDB baby step 2.md",
+    "img/Pasted image 20231115005106.png",
+    "retos-pico/Reversing/Bit-O-Asm-4.md",
+    "ASCII FTW.md",
+    "retos-pico/Reversing/Bit-O-Asm-3.md",
+    "retos-pico/Reversing/Bit-O-Asm-2.md",
+    "retos-pico/Reversing/Bit-O-Asm-1.md",
+    "retos-pico/Reversing/asm3.md",
+    "retos-pico/Reversing/asm1.md",
     "retos-pico/Reversing/reverse_cipher.md",
     "retos-pico/Reversing/Need For Speed.md",
+    "retos-pico/Reversing/GDB Test Drive.md",
+    "retos-pico/Crypto/SRA.md",
+    "retos-pico/Crypto/Mr-Worldwide.md",
+    "retos-pico/Crypto/Flags.md",
+    "img/Pasted image 20231114231556.png",
+    "retos-pico/Crypto/Vigenere.md",
+    "img/Pasted image 20231114225831.png",
+    "retos-pico/Crypto/transposition-trial.md",
     "img/Pasted image 20231114220149.png",
     "retos-pico/Reversing/Safe Opener 2 1.md",
     "retos-pico/Reversing/Safe Opener 2.md",
-    "retos-pico/Reversing/GDB Test Drive.md",
     "retos-pico/Reversing/asm2.md",
     "img/Pasted image 20231113221006.png",
     "img/Pasted image 20231113220843.png",
-    "retos-pico/Reversing/asm3.md",
     "img/Pasted image 20231112004136.png",
-    "retos-pico/Reversing/asm1.md",
     "Sin título.canvas",
     "Plantillas/Plantilla.md",
     "README.md",
     "retos-pico/Reversing/vault-door-5.md",
     "retos-pico/Reversing",
-    "img/Pasted image 20231106113444.png",
     "retos-pico/Reversing/vault-door-training.md",
     "retos-pico/Reversing/vault-door-4.md",
-    "retos-pico/Reversing/vault-door-3.md",
-    "retos-pico/Reversing/vault-door-1.md",
-    "retos-pico/Crypto/HideToSee.md",
-    "retos-pico/Crypto/ReadMyCert.md",
-    "img/Pasted image 20231105213803.png",
-    "retos-pico/Crypto/Mind your Ps and Qs.md",
-    "retos-pico/Crypto/13.md",
-    "retos-pico/Crypto/basic-mod1.md",
-    "retos-pico/Crypto/Pixelated.md",
-    "img/Pasted image 20231101103938.png",
-    "retos-pico/Crypto/rsa-pop-quiz.md",
-    "retos-pico/Crypto/miniRSA.md",
-    "retos-pico/Crypto/b00tl3gRSA2.md",
-    "retos-pico/Crypto/waves over lambda.md",
-    "img/Pasted image 20231025113839.png",
-    "retos-pico/Crypto/The Numbers.md",
-    "img/Pasted image 20231025112036.png",
-    "img/Pasted image 20231025111635.png",
     "img",
     "retos-pico/Crypto",
     "Plantillas",
