@@ -2,7 +2,7 @@
 - What port number has a web server with a CMS running?
 ![[Pasted image 20250415002413.png]]
 - What is the username we can find in the CMS?
--![[Pasted image 20250415002708.png]]
+![[Pasted image 20250415002708.png]]
 - What is the password we can find for the username?
 ![[Pasted image 20250415002834.png]]
 - What version of the CMS is installed on the server? (Ex: Name 1.1.1)
